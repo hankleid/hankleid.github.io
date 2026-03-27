@@ -62,7 +62,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .author-notes { font-style: italic; font-size: 12px; margin-left: 10px}
 
-.publications ol.bibliography li .periodical { margin-top: 10px; font-family: Georgia; color:#4a8a85; font-size: 17px}
+.publications ol.bibliography li .periodical { margin-top: 10px; font-family: Georgia; color:#4a8a85; font-size: 16px}
+
+.publications ol.bibliography li .pub-news { margin-top: 10px }
 
 .publications ol.bibliography li .links a.btn { color: #000000; border: 1px solid #000000; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }
 
